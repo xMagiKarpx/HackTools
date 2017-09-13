@@ -9,3 +9,5 @@ Check sure if you have install Perl on the LinuxOS selected!
 I work with the Socket lib of Perl for the flood!
 
 ENJOY!
+
+Pomodoro si é scopato Fallani
